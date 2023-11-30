@@ -126,6 +126,6 @@ footer a:hover {
 
 @media (max-width: 700px) {
   .side-nav {
-    min-width: 30vw;
+    min-width: 35vw;
   }
 }
